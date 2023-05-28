@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Artyom Grishchuk
 - 👀 I’m interested in web development
 - 🌱 I’m currently studying react.js
-- 📫 How to reach me artoymgr.work@gmail.com
+- 📫 How to reach me artoymgr@gmail.com
 
 <!---
 artyomgr-dev/artyomgr-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
