@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artyom Grishchuk
+- 👋 Hi, I’m Artyom Grischuk
 - 👀 I’m interested in web development
 - 🌱 I’m currently studying react.js
 - 📫 How to reach me artoymgr@gmail.com
